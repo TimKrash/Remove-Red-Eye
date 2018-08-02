@@ -2,4 +2,4 @@ Fixes red-eye with a simple Python script that used HAAR Cascading and the power
 
 Here's an example:
 
-![Imgur]\(http://i.imgur.com/pZxTHoE.jpg)
+[Imgur](https://i.imgur.com/pZxTHoE.jpg)
